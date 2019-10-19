@@ -2,8 +2,8 @@
   "name": "PolMeth Europe 2020",
   "short_name": "PolMeth Europe 2020",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#e2001a",
+  "background_color": "#e2001a",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
