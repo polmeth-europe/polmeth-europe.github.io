@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PolMeth Europe 2020</title>
+    <title>PolMeth Europe 2021</title>
     <link>https://polmeth-europe.github.io/</link>
       <atom:link href="https://polmeth-europe.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>PolMeth Europe 2020</description>
+    <description>PolMeth Europe 2021</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020 PolMeth Europe</copyright><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://polmeth-europe.github.io/img/icon-192.png</url>
-      <title>PolMeth Europe 2020</title>
+      <title>PolMeth Europe 2021</title>
       <link>https://polmeth-europe.github.io/</link>
     </image>
     
